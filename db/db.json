@@ -80,7 +80,7 @@
   "burgers": [
     {
       "nome": "Paulo",
-      "carne": "",
+      "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
@@ -115,7 +115,7 @@
     },
     {
       "nome": "Francisca",
-      "carne": "",
+      "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
         "Cheddar"
