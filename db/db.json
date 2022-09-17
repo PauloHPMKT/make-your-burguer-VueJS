@@ -79,29 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "Paulo",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Fernanda",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Haliane",
       "carne": "Maminha",
       "pao": "Parmesão e Orégano",
@@ -114,11 +91,11 @@
       "id": 3
     },
     {
-      "nome": "Francisca",
-      "carne": "Alcatra",
+      "nome": "Paulo",
+      "carne": "",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Cheddar"
+        "Salame"
       ],
       "status": "Solicitado",
       "id": 4
